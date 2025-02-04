@@ -1,2 +1,2 @@
 # Chess-AI
-Using deep learning and alpha zero and Monte Carlo Tree Search (MCTS) to play chess with people
+Combining MTCS, deep learning and alphazero to build a chess playing agent
